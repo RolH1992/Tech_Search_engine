@@ -9,7 +9,8 @@ $ pip install txtai
 $ pip install panda
 $ pip install numpy
 
-I could recommend .csv files from Kaggle 
+
+To test the search engine I could recommend .csv files from Kaggle 
 https://www.kaggle.com/
 
 
