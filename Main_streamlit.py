@@ -11,7 +11,7 @@ def load_embeddings():
         embeddings.load("embeddings.tar.gz")
         
         # Load the titles from the CSV again for retrieval
-        df = pd.read_csv("/home/User_Name/Project/Search engine/train.csv")
+        df = pd.read_csv("/home/user_name/search engine/file.csv")
         np.random.seed(1)
         titles = df.dropna().sample(10000).TITLE.values
         
