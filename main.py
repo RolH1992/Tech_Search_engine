@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv("/home/roland/Code/Search engine/Search engine/train.csv")
+df = pd.read_csv("/home/user_name/search engine/file.csv")
 
 # Set random seed for reproducibility
 np.random.seed(1)
