@@ -1,7 +1,7 @@
 # Tech_Search_engine
 This is a search engine that reads .csv files using Streamlit with a Python library for building web applications. 
 
-Please note I built a enviroment with in a linux terminal:
+Please note I built a enviroment within a linux terminal:
 
 $ source ~/myenv/bin/activate
 $ pip install streamlit
